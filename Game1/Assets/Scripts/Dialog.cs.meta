@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ca616cebd2a16f4aa583b3e9b2b5b4a
+timeCreated: 1507515003
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TextField: {fileID: 1535820441538954, guid: e9f4a4c65596f394490c8c18d6692604,
+      type: 2}
+  - Button1: {fileID: 1816492254248806, guid: e9f4a4c65596f394490c8c18d6692604, type: 2}
+  - Button2: {fileID: 1701611152396974, guid: e9f4a4c65596f394490c8c18d6692604, type: 2}
+  - CancelButton: {fileID: 1614063064279052, guid: e9f4a4c65596f394490c8c18d6692604,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

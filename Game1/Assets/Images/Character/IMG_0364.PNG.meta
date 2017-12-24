@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 9a5ed498b64344d53a69b018c801e94c
+timeCreated: 1512450972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IMG_0364_0
+    21300002: IMG_0364_1
+    21300004: IMG_0364_2
+    21300006: IMG_0364_3
+    21300008: IMG_0364_4
+    21300010: IMG_0364_5
+    21300012: IMG_0364_6
+    21300014: IMG_0364_7
+    21300016: IMG_0364_8
+    21300018: IMG_0364_9
+    21300020: IMG_0364_10
+    21300022: IMG_0364_11
+    21300024: IMG_0364_12
+    21300026: IMG_0364_13
+    21300028: IMG_0364_14
+    21300030: IMG_0364_15
+    21300032: IMG_0364_16
+    21300034: IMG_0364_17
+    21300036: IMG_0364_18
+    21300038: IMG_0364_19
+    21300040: IMG_0364_20
+    21300042: IMG_0364_21
+    21300044: IMG_0364_22
+    21300046: IMG_0364_23
+    21300048: IMG_0364_24
+    21300050: IMG_0364_25
+    21300052: IMG_0364_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMG_0364_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 772
+        width: 239
+        height: 571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 763
+        width: 231
+        height: 570
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_2
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 769
+        width: 271
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_3
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 803
+        width: 234
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_4
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 769
+        width: 252
+        height: 589
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_5
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1134
+        width: 10
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_6
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1087
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_7
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1025
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 990
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_9
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 963
+        width: 9
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 934
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 894
+        width: 9
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_12
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 904
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_13
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 910
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 857
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 890
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 884
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 860
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 850
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 833
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_20
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 826
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 818
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 793
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_23
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 797
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 768
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 749
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IMG_0364_26
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 750
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
